@@ -1,0 +1,15 @@
+{
+  "name": "online_portfolio",
+  "version": "1.0.0",
+  "description": "Online Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Cein O'Rourke",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "npm": "^6.7.0"
+  }
+}
